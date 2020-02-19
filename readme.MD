@@ -1,6 +1,6 @@
 <div class="preview">
 
-**Privacy Policy for Code by Aliens**
+**Privacy Policy for GreyLivesMatter**
 
 One of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by and how we use it.
 

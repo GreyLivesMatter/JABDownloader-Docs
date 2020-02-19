@@ -1,6 +1,6 @@
 <div class="preview">
 
-**Privacy Policy for GreyLivesMatter**
+**Privacy Policy for GreyLivesMatter Application Just Another Browser Video Downloader on Android**
 
 One of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by and how we use it.
 
